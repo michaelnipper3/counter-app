@@ -90,7 +90,7 @@ export class CounterApp extends DDDSuper(I18NMixin(LitElement)) {
         font-family: var(--ddd-font-navigation);
       }
       :host([counter="18"]) {
-        color: var(---ddd-theme-default-athertonViolet);
+        color: var(--ddd-theme-default-athertonViolet);
       }
       .wrapper {
         margin: var(--ddd-spacing-2);
